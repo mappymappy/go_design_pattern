@@ -35,22 +35,6 @@
 * [Template Method]()
 * [Visitor]()
 
-### Pattern about Concurrent Programming
-
-* [Active Object]()
-* [Balking]()
-* [Double-checked locking]()
-* [Future]()
-* [Guarded suspension]()
-* [Lock]()
-* [Monitor]()
-* [Producer-consumer]()
-* [Reactor]()
-* [Readers-writer lock]()
-* [Scheduler]()
-* [Thread pool]()
-* [Thread-specific storage]()
-* [Two-phase termination]()
 
 ## Author
 [marnie_ms4](https://github.com/mappymappy?tab=repositories)
