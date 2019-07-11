@@ -7,7 +7,7 @@
 
 * [AbstractFactory]()
 * [Builder]()
-* [FactoryMethod]()
+* [FactoryMethod](./factory_method/README.md)
 * [Prototype]()
 * [Singleton]()
 
