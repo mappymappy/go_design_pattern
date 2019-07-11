@@ -10,13 +10,10 @@ SuperClassであるCreatorから生成についての実処理をSubClassであ�
 
 * origin
 
-
-
-* sample
+![Overview](./overview.png "overview")
 
 
 ## Conclusion
 
 golangでは継承がないので、厳密な意味でFactoryMethodを再現する事はできない。
 今回のサンプルでは、embedを利用する事で実装の再利用性についてを表現している。
-
